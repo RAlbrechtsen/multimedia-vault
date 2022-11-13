@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "ead2a581d4477d44",
+    "type": "split",
+    "children": [
+      {
+        "id": "77782f7668af4cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2541e4f9890147",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project management/Ideas kanban.md"
+              }
+            }
+          },
+          {
+            "id": "4bcdf3a9371296d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup/Præsentationsteknik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e40ef1072e46485",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33d1720551eace4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44e477db340ea3c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0488caa3ab25356f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e3adae52a65b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc706f5eb096fcb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3a2419dfe72c7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42655edde982e667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project management/Ideas kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d99a79b2f86b852e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project management/Ideas kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcfe9172e1ca655b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af5a7e1ae7c71bfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project management/Ideas kanban.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "44e477db340ea3c1",
+  "lastOpenFiles": [
+    "Project management/Ideas kanban.md",
+    "Startup/Event driven kanban board.md",
+    "Startup/Content planlægning.md",
+    "Github undervisning.md",
+    "Startup/BMC Og Forretningsprincipper.md",
+    "Startup/Startup projektkrav.md",
+    "Startup/Projektledelse.md"
+  ]
+}
