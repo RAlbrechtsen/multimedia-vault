@@ -18,6 +18,10 @@ sidst i interviewet.
 
 ideate: 
 problemer med coding. vise ting der virker
+box komposition
+split screen komposition
+z komposition
+
 
 prototype / test
 lavede gangster test, men synes ikke det hjalp så meget. 
